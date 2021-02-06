@@ -12,3 +12,7 @@ h1 {
 .showing {
 	display: block;
 }
+
+li {
+	margin: 10px;
+}
